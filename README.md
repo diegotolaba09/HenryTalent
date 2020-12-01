@@ -8,9 +8,9 @@ Graduation project at soyHenry.com bootcamp.
 - @MartinCura
 
 *Dev Team*
-- @Lukasver
-- @FedericoCalderon
 - @diegotolaba09
+- @FedericoCalderon
+- @Lukasver
 - @Kuinoso
 - @SebaLevin
 - @MatiasFunes94
